@@ -1,0 +1,22 @@
+.star-rate{
+    font-size: 300%;
+}
+
+.starUtf{
+    font-size: 50px;
+    color: white;
+}
+
+.starUtf:active{
+    border: inherit;
+    outline: inherit;
+}
+
+.form-inline{
+    margin-left: 20%;
+    margin-bottom: 0;
+}
+
+.mainDiv{
+    margin-top:8%;
+}

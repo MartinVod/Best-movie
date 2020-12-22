@@ -1,0 +1,7 @@
+.navbar-nav{ 
+    display: block;
+}
+.navbar-nav .nav-items{ 
+    display: inline-block;
+    width: 260px;
+}

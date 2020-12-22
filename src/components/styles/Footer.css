@@ -1,0 +1,5 @@
+.footer{
+    height: 90px;
+    box-shadow: -1px -1px 1px black;
+    background: hsla(255,0,0,0.4);
+}

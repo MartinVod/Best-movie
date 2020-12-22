@@ -1,0 +1,12 @@
+.offeredMovies{
+    transition: all 0.9 ease 2s;
+}
+
+.offeredMovies img{
+    height: 150px;
+    width: 150px;
+}
+
+.offeredMovies:hover img{
+    transform: scale(1.3,1.3);
+}
