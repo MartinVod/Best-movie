@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Best-movie/static/css/main.f8a30fb3.chunk.css",
+    "main.js": "/Best-movie/static/js/main.7ca3b5ae.chunk.js",
+    "main.js.map": "/Best-movie/static/js/main.7ca3b5ae.chunk.js.map",
+    "runtime-main.js": "/Best-movie/static/js/runtime-main.9dcd3a0b.js",
+    "runtime-main.js.map": "/Best-movie/static/js/runtime-main.9dcd3a0b.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/Best-movie/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.70829895.chunk.js": "/Best-movie/static/js/2.70829895.chunk.js",
+    "static/js/2.70829895.chunk.js.map": "/Best-movie/static/js/2.70829895.chunk.js.map",
+    "static/js/3.cb3c3285.chunk.js": "/Best-movie/static/js/3.cb3c3285.chunk.js",
+    "static/js/3.cb3c3285.chunk.js.map": "/Best-movie/static/js/3.cb3c3285.chunk.js.map",
+    "index.html": "/Best-movie/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/Best-movie/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.f8a30fb3.chunk.css.map": "/Best-movie/static/css/main.f8a30fb3.chunk.css.map",
+    "static/js/2.70829895.chunk.js.LICENSE.txt": "/Best-movie/static/js/2.70829895.chunk.js.LICENSE.txt",
+    "static/media/Call.083a2dea.jpg": "/Best-movie/static/media/Call.083a2dea.jpg",
+    "static/media/Casablanca.553e21fc.jpg": "/Best-movie/static/media/Casablanca.553e21fc.jpg",
+    "static/media/HonestThief.e947bc72.jpg": "/Best-movie/static/media/HonestThief.e947bc72.jpg",
+    "static/media/The-Farewell.238c495a.jpg": "/Best-movie/static/media/The-Farewell.238c495a.jpg",
+    "static/media/Titanic.625056dd.jpg": "/Best-movie/static/media/Titanic.625056dd.jpg",
+    "static/media/casablanca movie icon.98064b45.png": "/Best-movie/static/media/casablanca movie icon.98064b45.png",
+    "static/media/farewellicon.d7c38677.png": "/Best-movie/static/media/farewellicon.d7c38677.png",
+    "static/media/honestthiefmovieicon.b23d034d.png": "/Best-movie/static/media/honestthiefmovieicon.b23d034d.png",
+    "static/media/thecallmovieicon.1dd94879.png": "/Best-movie/static/media/thecallmovieicon.1dd94879.png",
+    "static/media/titanicmovieicon.fac7f01f.png": "/Best-movie/static/media/titanicmovieicon.fac7f01f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9dcd3a0b.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.70829895.chunk.js",
+    "static/css/main.f8a30fb3.chunk.css",
+    "static/js/main.7ca3b5ae.chunk.js"
+  ]
+}
